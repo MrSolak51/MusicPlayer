@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>backward-solid.svg</file>
+        <file>forward-solid.svg</file>
+        <file>play-solid.svg</file>
+        <file>pause-solid.svg</file>
+        <file>volume-high-solid.svg</file>
+        <file>volume-low-solid.svg</file>
+        <file>volume-off-solid.svg</file>
+        <file>headphones-solid.svg</file>
+    </qresource>
+</RCC>
