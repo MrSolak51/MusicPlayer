@@ -1,0 +1,1 @@
+VLC_PATH = "C:/Program Files/VideoLAN/VLC/libvlc.dll"
